@@ -27,6 +27,7 @@
 
 pub mod embeddings;
 pub mod inference;
+pub mod read_tool_hook;
 
 use std::collections::HashMap;
 use std::sync::Arc;
